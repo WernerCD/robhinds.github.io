@@ -35,7 +35,9 @@ roles:
    start: 2017
    end: Ongoing
    employer: M&T Bank (Contractor)
-   description: 
+   description: SOFTWARE DEVELOPMENT & INTEGRATION 
+	Windows Services and Workflow creation, design, implementation and maintenance
+	ETL (Extract, Transform, Load) data from various sources (XML, PDFs, Excel) for processes used in banking workflows.
  - title: .Net Developer & Backend Services
    start: 2016
    end: 2017
