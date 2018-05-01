@@ -3,14 +3,19 @@ layout: default
 ---
 
 <div class="row">
-	<div class="col-md-9 rightBorder">
+	<div class="col-md-3 rightBorder">
+			{% include section_stackoverflow.html %}
+			{% include section_contact.html %}
+			{% include section_military.html %}
+			{% include section_profecient.html %}
+			{% include section_familiar.html %}
+			{% include section_skill.html %}
+	</div>
+	<div class="col-md-9 ">
 		{% include section_intro.html %}
 		{% include section_skills.html %}
 		{% include section_workexperience.html %}
 		{% include section_education.html %}
 		{% include section_additionalinfo.html %}
-	</div>
-	<div class="col-md-3">
-		{% include section_stackoverflow.html %}
 	</div>
 </div>
