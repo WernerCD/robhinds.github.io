@@ -9,16 +9,18 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/wernercd
  - title: GitHub
    url: https://github.com/wernercd
  - title: StackOverflow
    url: http://stackoverflow.com/users/409025/wernercd
- - title: LinkedIn
-   url: https://www.linkedin.com/in/wernercd
  - title: DZone
    url: https://dzone.com/users/3258738/wernercd.html
+
+#Intro Blurb
+intro:
+  Programmer type dude.
 
 #Any buzzword skills you want to include
 skills:
